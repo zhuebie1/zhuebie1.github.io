@@ -1,0 +1,15 @@
+ /*背景图片属性*/ 
+body{background-image: url("img/9.png");background-size: 1600px 800px}
+		 /*表格属性*/ 
+tr{height: 81.5px;color: hsla(0,30%,96%,1.00)}
+		th{width:300px}
+		aside { width: 30%; height:700px;float: left; }
+        article { width:70%; height: 700px; float: left; }
+ /*首页文字属性*/ 
+        .homepage{font-family:宋体;font-size: 30px}
+ /*页眉属性*/ 
+        .none {background-color: hsla(187,70%,28%,1.00);margin-top: -10px;border-style: none;height: 80px;font-size: 55px;text-align: center;font-family: 楷体;}
+ /*标题属性*/ 
+		.titleone{font-size: 50px;font-family:楷体;color: hsla(0,25%,98%,1.00);margin-top:100px;margin-left:120px}
+		.titletwo{font-size: 40px;font-family:楷体;color: hsla(0,25%,98%,1.00);margin-left:200px;margin-top:150px}
+		.titlethree{font-size: 30px;font-family:楷体;color: hsla(0,25%,98%,1.00);margin-left:120px;margin-top:-30px}
